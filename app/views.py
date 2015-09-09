@@ -13,7 +13,7 @@ YOUR_INFO = {
     'email' : '', # Leave blank if you'd prefer not to share your email with other conference attendees
     'twitter_username' : 'willingcarol', # No @ symbol, just the handle.
     'github_username' : "willingc",
-    'headshot_url' : 'https://github.com/willingc', # Link to your GitHub, Twitter, or Gravatar profile image.
+    'headshot_url' : 'https://en.gravatar.com/willingc2015', # Link to your GitHub, Twitter, or Gravatar profile image.
 }
 
 def home(request):
